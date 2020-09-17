@@ -1,0 +1,17 @@
+steps of jenkins installation-----------
+1. open cmd prom n typ cmd java to check whether java is install in your computer or not..
+cmd = java
+2. to check java version..
+ cmd = java -version
+3. need to install war file in laptop..
+to acees war file go in the location where war file save i  ur c drive---
+cmd= cd..
+cd program files
+cd dev
+4.cmd = dir(to check directory)
+5.java -jar jenkins.war --httpPort=8080
+click on this above link
+it will run n give password..
+6. http://localhost:8080/jmx-console/index.jsp
+then go to the above link to loging jenkins page in google crome..
+
